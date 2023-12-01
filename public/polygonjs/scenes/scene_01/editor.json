@@ -1,0 +1,109 @@
+{
+	"multiple_panel": {
+		"split_ratio": 0.5,
+		"split_panel0": {
+			"split_ratio": 0.5543217692883486,
+			"split_panel0": {
+				"panelTypes": ["viewer"],
+				"currentPanelIndex": 0,
+				"panel_data": {
+					"camera": "/cameras/cameras:sopGroup/perspectiveCamera_FPS",
+					"isViewerInitLayoutData": true,
+					"linkIndex": 1,
+					"overlayedNetwork": {
+						"allowed": false,
+						"displayed": false
+					}
+				}
+			},
+			"split_panel1": {
+				"panelTypes": ["params"],
+				"currentPanelIndex": 0,
+				"panel_data": {
+					"active_folder": null,
+					"linkIndex": 1
+				}
+			},
+			"split_mode": "vertical"
+		},
+		"split_panel1": {
+			"panelTypes": ["network", "params", "viewer"],
+			"currentPanelIndex": 0,
+			"panel_data": {
+				"camera": {
+					"position": {
+						"x": -21.174872794499166,
+						"y": -829.5975911484179
+					},
+					"zoom": 0.5398998962402338
+				},
+				"history": {
+					"2": {
+						"position": {
+							"x": -1.0414317668970257,
+							"y": 213.37571958966586
+						},
+						"zoom": 1.0872221069335932
+					},
+					"36": {
+						"position": {
+							"x": -21.174872794499166,
+							"y": -829.5975911484179
+						},
+						"zoom": 0.5398998962402338
+					},
+					"186": {
+						"position": {
+							"x": -156.27235896250653,
+							"y": -105.6847194643342
+						},
+						"zoom": 1.0872221069335932
+					},
+					"978": {
+						"position": {
+							"x": -191.9946785347696,
+							"y": -475.8747272649509
+						},
+						"zoom": 0.8182221069335933
+					}
+				},
+				"paramsDisplayed": false,
+				"linkIndex": 1
+			}
+		},
+		"split_mode": "horizontal"
+	},
+	"currentNodes": ["/geo1", "/", "/", "/", "/", "/", "/", "/"],
+	"navigationHistory": {
+		"nodePaths": {
+			"1": ["/", "/", "/geo1", "/", "/cameras", "/", "/geo1"],
+			"2": ["/"],
+			"3": ["/"],
+			"4": ["/"],
+			"5": ["/"],
+			"6": ["/"],
+			"7": ["/"],
+			"8": ["/"]
+		},
+		"index": {
+			"1": 6,
+			"2": 0,
+			"3": 0,
+			"4": 0,
+			"5": 0,
+			"6": 0,
+			"7": 0,
+			"8": 0
+		}
+	},
+	"fullscreenPanelId": null,
+	"saveOptions": {
+		"createExport": false,
+		"checkRemoteAssetsUse": true,
+		"minimizeFilesCount": false,
+		"compressJs": true,
+		"createZip": false,
+		"runPostExportCommand": false
+	},
+	"paramsModal": []
+}

@@ -1,0 +1,21 @@
+{
+	"type": "cameraControls",
+	"nodes": {
+		"firstPersonControls1": {
+			"type": "firstPersonControls",
+			"params": {
+				"colliderObject": "../../../geo1/BVH1",
+				"capsuleRadius": 0.21,
+				"capsuleHeight": 1.26,
+				"translateSpeed": 2.1,
+				"runSpeedMult": 4,
+				"startPosition": [15.219537815365737, 4.846281564132924, -9.184694993267499],
+				"startRotation": [6.086112163121339, 27.712209191000575, -2.838597301979206]
+			}
+		}
+	},
+	"params": {
+		"node": "firstPersonControls1"
+	},
+	"inputs": ["perspectiveCamera_FPS"]
+}
